@@ -1,19 +1,3 @@
-# AppSecAssignment1.1.5
-In this assignment you will be fixing a barely-fuctioning 
-and deeply-flawed C program used to create a gift card file. 
-
-Please remember to turn in both the code and a write-up. The write-up
-should be **no longer than 3 pages** and should explain:
-
-1. Your method to try to find bugs.
-2. Your method to try to fix the bugs you found (if any).
-3. Your method of writing tests and fuzzing.
-
-This write-up is very useful for partial credit, just in case you did 
-not do as well in the actual goals of the assignment as you were 
-expecting or hoping.
-
-
 ## Introduction
 
 The assignment is task of performing an audit of code, like a game:
@@ -246,4 +230,3 @@ version---writing safe C code is difficult!
 
 [1] Although you are encouraged to try to prove us wrong by finding bugs
     in it!
-
